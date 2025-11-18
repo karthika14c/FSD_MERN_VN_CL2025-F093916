@@ -1,0 +1,35 @@
+body{
+    background-color: antiquewhite;
+    height: 1080px;
+    padding: 100px;
+}
+#b1{
+    background-color: aqua;
+    height: 150px;
+    width: 150px;
+    position: relative;
+    right: 20px;
+}
+#b2{
+    background-color: rgb(37, 196, 53);
+    height: 150px;
+    width: 150px;
+    position: relative;
+    bottom: 20px;
+}
+#b3{
+    background-color: rgb(16, 25, 205);
+    height: 150px;
+    width: 150px;
+    position: absolute;
+
+    
+}
+#b4{
+    background-color: rgb(255, 25, 0);
+    height: 150px;
+    width: 150px;
+    position: fixed;
+    bottom: 0;
+
+}

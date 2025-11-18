@@ -1,0 +1,27 @@
+
+#header{
+    background-color: rgb(190, 190, 213);
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+a{
+    color: #080808;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-decoration: none;
+    margin: 5px;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+
+#content{
+    padding: 20px;
+}

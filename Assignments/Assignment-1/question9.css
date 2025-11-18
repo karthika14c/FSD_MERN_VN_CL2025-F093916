@@ -1,0 +1,27 @@
+#b1{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    padding: 10px;
+    border: 10px solid blue;
+    margin: 5px;
+}
+#b2{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(180, 185, 253);
+    padding: 10px;
+    border: 15px solid rgb(155, 5, 196);
+    margin: 20px;
+}
+#b3{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(245, 255, 151);
+    padding: 15px;
+    border: 20px solid rgb(252, 231, 70);
+    margin: 10px;
+}
+p{
+    background-color: white;
+}
