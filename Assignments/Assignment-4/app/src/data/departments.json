@@ -1,0 +1,82 @@
+[
+  {
+    "id": "cse",
+    "name": "Computer Science Engineering",
+    "description": "Focuses on software development, algorithms, artificial intelligence, and computing systems.",
+    "courses": ["Data Structures", "Operating Systems", "DBMS", "AI", "Software Engineering"],
+    "faculty": ["Dr. Kumar", "Dr. Meena", "Prof. Suresh"],
+    "labs": ["Programming Lab", "AI Lab", "Networks Lab"]
+  },
+  {
+    "id": "it",
+    "name": "Information Technology",
+    "description": "Deals with information systems, networking, cloud computing, and cybersecurity.",
+    "courses": ["Cloud Computing", "Cyber Security", "Web Development", "SE", "CN"],
+    "faculty": ["Dr. Rahul", "Dr. Priya", "Prof. Sneha"],
+    "labs": ["IT Lab", "Cloud Lab", "Web Lab"]
+  },
+  {
+    "id": "ece",
+    "name": "Electronics and Communication Engineering",
+    "description": "Focuses on electronic circuits, communication systems, and embedded technologies.",
+    "courses": ["Digital Electronics", "Signals & Systems", "VLSI", "Control Systems"],
+    "faculty": ["Dr. Ashok", "Dr. Vandana", "Prof. Naveen"],
+    "labs": ["Electronics Lab", "Communication Lab", "VLSI Lab"]
+  },
+  {
+    "id": "mech",
+    "name": "Mechanical Engineering",
+    "description": "Covers thermodynamics, manufacturing, robotics, and automotive engineering.",
+    "courses": ["Thermodynamics", "Fluid Mechanics", "Mechanics of Materials", "Robotics"],
+    "faculty": ["Dr. Manohar", "Dr. Sai", "Prof. Raghav"],
+    "labs": ["Machine Lab", "Automobile Lab", "CAD Lab"]
+  },
+  {
+    "id": "civil",
+    "name": "Civil Engineering",
+    "description": "Deals with infrastructure, structural design, environmental engineering, and construction.",
+    "courses": ["Structural Analysis", "Geotechnical Engineering", "Fluid Mechanics", "Surveying"],
+    "faculty": ["Dr. Bhaskar", "Dr. Ritu", "Prof. Ragini"],
+    "labs": ["Survey Lab", "Concrete Lab", "Soil Testing Lab"]
+  },
+  {
+    "id": "eee",
+    "name": "Electrical and Electronics Engineering",
+    "description": "Focuses on power systems, electrical machines, renewable energy, and control systems.",
+    "courses": ["Electrical Machines", "Power Systems", "Control Engineering", "Power Electronics"],
+    "faculty": ["Dr. Swathi", "Dr. Rakesh", "Prof. Shruti"],
+    "labs": ["Power Lab", "Electronics Lab", "PLC Lab"]
+  },
+  {
+    "id": "biotech",
+    "name": "Biotechnology",
+    "description": "Includes genetic engineering, bioprocessing, biochemistry, and biomedical technology.",
+    "courses": ["Genetic Engineering", "Molecular Biology", "Biochemistry", "Bioinformatics"],
+    "faculty": ["Dr. Pooja", "Dr. Rajesh", "Prof. Anjali"],
+    "labs": ["Biotech Lab", "Microbiology Lab", "Bioprocess Lab"]
+  },
+  {
+    "id": "aero",
+    "name": "Aeronautical Engineering",
+    "description": "Covers aircraft design, aerodynamics, propulsion systems, and flight dynamics.",
+    "courses": ["Aerodynamics", "Flight Mechanics", "Aircraft Structures", "Propulsion"],
+    "faculty": ["Dr. Vineet", "Dr. Lakshmi", "Prof. Aman"],
+    "labs": ["Wind Tunnel Lab", "Aerodynamics Lab", "CAD/CAM Lab"]
+  },
+  {
+    "id": "mba",
+    "name": "Master of Business Administration",
+    "description": "Develops management, leadership, marketing, and financial decision-making skills.",
+    "courses": ["Marketing", "Finance", "Business Analytics", "HR Management"],
+    "faculty": ["Dr. Sharma", "Dr. Neha", "Prof. Varun"],
+    "labs": ["Business Analytics Lab", "Finance Simulation Lab"]
+  },
+  {
+    "id": "ai",
+    "name": "Artificial Intelligence & Data Science",
+    "description": "Specializes in AI, ML, data analytics, neural networks, and deep learning solutions.",
+    "courses": ["Machine Learning", "Deep Learning", "Data Analytics", "NLP", "Computer Vision"],
+    "faculty": ["Dr. Karthik", "Dr. Vaishali", "Prof. Rohit"],
+    "labs": ["AI Lab", "Data Science Lab", "Robotics Lab"]
+  }
+]
