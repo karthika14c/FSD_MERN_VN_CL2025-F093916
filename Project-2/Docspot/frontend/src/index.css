@@ -1,0 +1,218 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Push footer to bottom */
+.app-footer {
+  margin-top: auto;
+  text-align: center;
+  padding: 12px 0;
+  background: #f8f9fa;
+  font-weight: 500;
+}
+
+
+.auth-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url("https://img.freepik.com/free-vector/medical-technology-science-background-vector-blue-with-blank-space_53876-117739.jpg?semt=ais_hybrid&w=740&q=80");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+.auth-card {
+  width: 380px;
+  background: white;
+  border-radius: 10px;
+  padding: 25px 30px;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.auth-card h3 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.auth-input {
+  margin-bottom: 12px;
+}
+
+.auth-btn {
+  width: 100%;
+  background: #001685 !important;
+  border: none !important;
+  font-weight: bold;
+}
+
+.auth-switch {
+  text-align: center;
+  margin-top: 10px;
+}
+/* Top Section */
+.admin-top-bar{
+  display:flex;
+  justify-content: space-between;
+  align-items:center;
+  padding:15px 35px;
+}
+
+/* Tabs */
+.admin-tab{
+  border:none;
+  padding:8px 18px;
+  border-radius:25px;
+  font-weight:600;
+  background:#e8ecff;
+  color:#2d42ff;
+}
+
+.admin-tab.active{
+  background:#3659ff;
+  color:white;
+}
+
+/* Card */
+.admin-card{
+  background:white;
+  padding:25px;
+  border-radius:15px;
+  box-shadow:0 15px 35px rgba(0,0,0,0.08);
+}
+
+/* Titles */
+.section-title{
+  font-weight:800;
+}
+
+.section-sub{
+  margin-top:-4px;
+  color:gray;
+  margin-bottom:10px;
+}
+
+/* Table */
+.custom-table{
+  border-radius:12px;
+  overflow:hidden;
+}
+
+.custom-table thead{
+  background:#f3f5ff;
+  font-weight:700;
+}
+
+.custom-table tbody tr:hover{
+  background:#f7f9ff;
+}
+
+/* Status Badges */
+.status-badge{
+  padding:6px 12px;
+  border-radius:20px;
+  font-weight:700;
+  text-transform:capitalize;
+}
+
+.status-badge.approved{
+  background:#eaffef;
+  color:#067d3f;
+}
+
+.status-badge.pending{
+  background:#fff4d6;
+  color:#c08b00;
+}
+
+.status-badge.rejected{
+  background:#ffe6e6;
+  color:#d00000;
+}
+
+/* User Role Badge */
+.role-badge{
+  background:#eef5ff;
+  color:#1946ff;
+  padding:6px 10px;
+  border-radius:20px;
+}
+
+/* Bell Animation */
+.bell{
+  font-size:25px;
+}
+
+.bell .badge{
+  font-size:12px;
+}
+
+/* Card Layout */
+.doctor-card{
+  background:white;
+  padding:25px;
+  border-radius:16px;
+  box-shadow:0 20px 35px rgba(0,0,0,0.08);
+}
+
+/* Heading */
+.section-title{
+  font-weight:800;
+  margin-bottom:10px;
+}
+
+/* Table Styling */
+.doc-table{
+  border-radius:10px;
+  overflow:hidden;
+}
+
+.doc-table thead{
+  background:#f3f6ff;
+  font-weight:700;
+}
+
+.doc-table tbody tr:hover{
+  background:#f8fbff;
+}
+
+/* Status Chips */
+.status-badge{
+  padding:6px 12px;
+  border-radius:20px;
+  font-weight:700;
+  text-transform:capitalize;
+}
+
+.status-badge.approved{
+  background:#e8ffef;
+  color:#067d45;
+}
+
+.status-badge.pending{
+  background:#fff4d6;
+  color:#c79000;
+}
+
+.status-badge.rejected{
+  background:#ffe8e8;
+  color:#c00000;
+}
+
+/* Bell animation UI */
+.bell{
+  font-size:28px;
+}
+
+.bell .badge{
+  font-size:12px;
+}
